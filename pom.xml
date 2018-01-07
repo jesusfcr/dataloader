@@ -63,6 +63,15 @@
   </pluginRepositories>
 
   <dependencies>
+
+    <dependency>
+      <groupId>oracle</groupId>
+      <artifactId>com.oracle</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>/Users/jesus/Applications/data-integration/lib/ojdbc6.jar</systemPath>
+    </dependency>
+
     <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
